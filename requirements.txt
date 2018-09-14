@@ -1,0 +1,7 @@
+numpy>=1.13.1,
+scipy>=0.19.1,
+matplotlib>=2.1.0,
+dill>=0.2.7.1,
+tensorflow-gpu>=1.4
+tqdm>=4.19.7
+blosc>=1.5.0
