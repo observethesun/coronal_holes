@@ -3,7 +3,7 @@
 
 ## Segmentation of coronal holes with a convolutional neural network
 
-The repository contains a source code that allows to reproduce the coronal holes segmentation model described in a paper [Segmentation of coronal holes in solar disk images with a convolutional neural network]() (submitted to MNRAS).
+This repository contains the source code to reproduce the coronal holes segmentation model from the paper [Segmentation of coronal holes in solar disk images with a convolutional neural network](https://arxiv.org/abs/1809.05748) (submitted to MNRAS).
 
 ### Demo
 
