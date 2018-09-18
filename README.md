@@ -33,7 +33,7 @@ The repository is organized as follows:
     * ```convert_images.ipynb``` to convert ```.jpeg``` images to more memory efficient ```.blosc``` file format.
 * ```data``` folder provides a daily archive of coronal holes (CHs) in ```.abp``` file 
 format. CHs were obtained from SDO/AIA 193 A images in 1K resolution for the period 2010 to 2018.
-These ```.abp``` files are targets for the segmentation model.
+These ```.abp``` files are targets for the segmentation model. Visit [http://observethesun.com/](http://observethesun.com/) to look at the distribution of CHs over the Sun.
 * ```requirements.txt```  contains a list of python libraries required to run the code.
     
 ### What is an ```.abp``` file format
