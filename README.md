@@ -31,9 +31,9 @@ resolution obtained from [SunInTime](https://suntoday.lmsal.com/suntoday/) websi
 of coronal holes regions provided by the
 [Kislovodsk Mountain Astronomical Station](http://en.solarstation.ru/).
 
-The notebook [1.Train_segmentation_model](./notebooks/1.Train_segmentation_model.ipynb) 
+The notebook [Train_segmentation_model](./notebooks/1.Train_segmentation_model.ipynb) 
 contains data preprocessing, neural network architecture and model training pipeline.
-The notebook [2.Apply_segmentation_model](./notebooks/2.Apply_segmentation_model.ipynb) 
+The notebook [Apply_segmentation_model](./notebooks/2.Apply_segmentation_model.ipynb) 
 demonstrates inference pipeline.
 
 ### Citing this work
