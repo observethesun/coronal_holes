@@ -15,7 +15,7 @@ to see how the model will process solar disk images you will feed to it.
 Note that the model was optimized to SDO/AIA images obtained from [SunInTime](https://suntoday.lmsal.com/suntoday/)
 website. 
 
-### Installation and quickstart
+### Installation
 
 Clone the repo
 ```
